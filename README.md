@@ -39,6 +39,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 Este projeto está sob licença. Consulte o arquivo [LICENSE](LICENSE.md) para obter mais detalhes.
 
-&#xa0;
+Made with ♥ by Matheus Santos 👋 Get in touch!
 
 <a href="#top">Volte para o topo</a>
