@@ -1,6 +1,6 @@
 # MOBILE REGISTER
 
-<img id="top" src="./GIF/GIF.gif" width="800px" alt="Gif apresentando o projeto">
+<img id="top" src="./GIF/GIF.gif" width="600px" alt="Gif apresentando o projeto">
 
 >  O projeto é um site mobile que registra o nome e a idade de algum usuário através do Front-End conectado ao Back-End.
 ## :page_facing_up: Explicação
